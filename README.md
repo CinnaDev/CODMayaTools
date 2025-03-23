@@ -1,4 +1,4 @@
-# CODMayaTools
+# CODMayaTools-Cast
 
 
 This is my own modified version of CODMayaTools for Maya 2023 that supports .cast xanim properly and re-enables ExportX support. 
